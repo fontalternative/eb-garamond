@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bodoni*';
+    src: url('./variable/EBGaramond-VariableFont_wght.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400 800;
+}
+
+@font-face {
+    font-family: 'Bodoni*';
+    src: url('./variable/EBGaramond-Italic-VariableFont_wght.woff2') format('woff');
+    font-style: italic;
+    font-weight: 400 800;
+}
